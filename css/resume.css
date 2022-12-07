@@ -29,6 +29,10 @@ h6 {
   color: #343a40;
 }
 
+#mail {
+  text-transform: lowercase;
+}
+
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
